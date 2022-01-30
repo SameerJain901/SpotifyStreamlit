@@ -48,3 +48,5 @@ def do_eda(data,cdata,scaled_data,reduced_data):
             size=12,color="#56ab91"
         ))
     st.plotly_chart(fig)
+
+    
